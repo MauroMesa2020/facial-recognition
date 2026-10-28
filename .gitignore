@@ -47,3 +47,6 @@ dist-ssr
 
 
 PersonService/appsettings.json
+
+PersonService/Migrations/*
+PersonService/wwwroot
