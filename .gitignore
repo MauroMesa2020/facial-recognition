@@ -1,0 +1,10 @@
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Machine learning models
+**/*.onnx
+
+# IDE
+.vs/
+.vscode/
